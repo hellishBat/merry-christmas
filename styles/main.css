@@ -366,7 +366,6 @@ li {
 
 body {
 	background-color: #333;
-	font-family: Georgia, "Times New Roman", Times, serif;
 	font-family: "Euphoria Script", cursive;
 }
 
@@ -416,7 +415,7 @@ body {
 	right: 50%;
 	width: 150px;
 	height: 150px;
-	background-image: url("/images/fingerpoint.svg");
+	background-image: url("../images/fingerpoint.svg");
 	background-position: center;
 	background-size: cover;
 	transform: rotate(180deg) translateX(50%);
