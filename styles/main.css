@@ -467,6 +467,7 @@ body {
 	height: 0;
 	margin: 0;
 	font-size: 30px;
+	font-weight: 700;
 	text-align: center;
 	color: #fff;
 	transition: all ease-out 0.7s;
